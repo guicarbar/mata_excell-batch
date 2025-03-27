@@ -39,7 +39,7 @@ Aqui está a solução!
 
 ## Contribuir
 
-1. **Clonar projeto:**: `git clone git clone https://github.com/guicarbar/mata_excell-batch.git`
+1. **Clonar projeto:**: `git clone https://github.com/guicarbar/mata_excell-batch.git`
 2. **Criar feature/branch:**: `git checkout -b feature/Nome-da-branch`
 
 
